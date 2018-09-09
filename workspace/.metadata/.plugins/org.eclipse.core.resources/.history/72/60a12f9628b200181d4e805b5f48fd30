@@ -1,0 +1,9 @@
+package com.br.projetoPI2018.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.br.projetoPI2018.model.Pessoa;
+
+public interface PessoaRepository extends JpaRepository<Pessoa, Long> {
+
+}

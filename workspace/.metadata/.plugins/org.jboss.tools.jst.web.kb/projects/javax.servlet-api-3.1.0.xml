@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects>
+  <project name="pipoca_spring_aula03 (1)"/>
+ </used-by-projects>
+ <paths/>
+ <validation>
+  <el>
+   <linked-el length="17" name="%0" offset="6351" path="%1"/>
+   <linked-el length="27" name="%2" offset="11635" path="%1"/>
+   <linked-el length="19" name="%3" offset="10795" path="%1"/>
+   <linked-el length="19" name="%3" offset="12791" path="%1"/>
+   <linked-el length="28" name="%4" offset="6696" path="%1"/>
+   <linked-el length="20" name="%5" offset="11368" path="%1"/>
+   <linked-el length="53" name="%6" offset="7566" path="%1"/>
+   <linked-el length="18" name="%6" offset="6605" path="%1"/>
+   <linked-el length="28" name="%6" offset="6696" path="%1"/>
+   <linked-el length="17" name="%7" offset="6351" path="%1"/>
+   <linked-el length="15" name="%8" offset="6433" path="%1"/>
+   <linked-el length="111" name="%8" offset="6103" path="%1"/>
+   <linked-el length="15" name="%9" offset="6433" path="%1"/>
+   <linked-el length="111" name="%9" offset="6103" path="%1"/>
+   <linked-el length="28" name="%10" offset="6696" path="%1"/>
+   <linked-el length="14" name="%11" offset="6519" path="%1"/>
+   <linked-el length="27" name="%12" offset="6799" path="%1"/>
+   <linked-el length="53" name="%13" offset="7566" path="%1"/>
+   <linked-el length="53" name="%14" offset="7566" path="%1"/>
+   <linked-el length="12" name="%15" offset="9405" path="%1"/>
+   <linked-el length="17" name="%16" offset="6276" path="%1"/>
+   <linked-el length="22" name="%16" offset="6014" path="%1"/>
+   <linked-el length="20" name="%17" offset="11368" path="%1"/>
+   <linked-el length="27" name="%18" offset="6799" path="%1"/>
+   <linked-el length="14" name="%19" offset="6519" path="%1"/>
+   <linked-el length="27" name="%20" offset="11635" path="%1"/>
+   <linked-el length="22" name="%21" offset="6014" path="%1"/>
+   <linked-el length="18" name="%22" offset="6605" path="%1"/>
+   <linked-el length="74" name="%23" offset="11738" path="%1"/>
+   <linked-el length="27" name="%24" offset="6799" path="%1"/>
+   <linked-el length="19" name="%25" offset="10629" path="%1"/>
+   <linked-el length="21" name="%25" offset="10722" path="%1"/>
+   <linked-el length="19" name="%25" offset="12625" path="%1"/>
+   <linked-el length="19" name="%25" offset="10795" path="%1"/>
+   <linked-el length="21" name="%25" offset="12718" path="%1"/>
+   <linked-el length="19" name="%25" offset="12791" path="%1"/>
+   <linked-el length="27" name="%26" offset="11635" path="%1"/>
+   <linked-el length="17" name="%27" offset="6276" path="%1"/>
+   <linked-el length="19" name="%28" offset="10629" path="%1"/>
+   <linked-el length="19" name="%28" offset="12625" path="%1"/>
+   <linked-el length="21" name="%29" offset="10722" path="%1"/>
+   <linked-el length="21" name="%29" offset="12718" path="%1"/>
+   <linked-el length="12" name="%30" offset="9405" path="%1"/>
+   <linked-el length="15" name="%31" offset="9462" path="%1"/>
+   <linked-el length="15" name="%32" offset="9462" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="extension" value="%0"/>
+  <alias path="copyright" value="%2"/>
+  <alias path="findbugs.exclude" value="%3"/>
+  <alias
+   path="/javax.servlet-api-3.1.0/src/META-INF/maven/javax.servlet/javax.servlet-api/pom.xml" value="%1"/>
+  <alias path="project.organization.name" value="%4"/>
+  <alias path="release" value="%5"/>
+  <alias path="project" value="%6"/>
+  <alias path="extension.name" value="%7"/>
+  <alias path="spec" value="%8"/>
+  <alias path="spec.version" value="%9"/>
+  <alias path="project.organization" value="%10"/>
+  <alias path="vendor" value="%11"/>
+  <alias path="implementation.vendor" value="%12"/>
+  <alias path="project.build.outputDirectory" value="%13"/>
+  <alias path="project.build" value="%14"/>
+  <alias path="doc.title" value="%15"/>
+  <alias path="bundle" value="%16"/>
+  <alias path="release.arguments" value="%17"/>
+  <alias path="implementation" value="%18"/>
+  <alias path="vendor.name" value="%19"/>
+  <alias path="plugin.version" value="%20"/>
+  <alias path="bundle.symbolicName" value="%21"/>
+  <alias path="project.version" value="%22"/>
+  <alias path="basedir" value="%23"/>
+  <alias path="implementation.vendor.id" value="%24"/>
+  <alias path="findbugs" value="%25"/>
+  <alias path="plugin" value="%26"/>
+  <alias path="bundle.version" value="%27"/>
+  <alias path="findbugs.version" value="%28"/>
+  <alias path="findbugs.threshold" value="%29"/>
+  <alias path="doc" value="%30"/>
+  <alias path="window" value="%31"/>
+  <alias path="window.title" value="%32"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

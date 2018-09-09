@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects>
+  <project name="pipoca_spring_aula03 (1)"/>
+ </used-by-projects>
+ <paths/>
+ <validation>
+  <el>
+   <linked-el length="27" name="%0" offset="2110" path="%1"/>
+   <linked-el length="31" name="%2" offset="1888" path="%1"/>
+   <linked-el length="35" name="%3" offset="2724" path="%1"/>
+   <linked-el length="18" name="%4" offset="3932" path="%1"/>
+   <linked-el length="123" name="%4" offset="5117" path="%1"/>
+   <linked-el length="18" name="%4" offset="4016" path="%1"/>
+   <linked-el length="18" name="%4" offset="4098" path="%1"/>
+   <linked-el length="53" name="%4" offset="4675" path="%1"/>
+   <linked-el length="27" name="%5" offset="2110" path="%1"/>
+   <linked-el length="35" name="%5" offset="2724" path="%1"/>
+   <linked-el length="34" name="%6" offset="3793" path="%1"/>
+   <linked-el length="18" name="%7" offset="3932" path="%1"/>
+   <linked-el length="123" name="%7" offset="5117" path="%1"/>
+   <linked-el length="18" name="%7" offset="4016" path="%1"/>
+   <linked-el length="18" name="%7" offset="4098" path="%1"/>
+   <linked-el length="27" name="%8" offset="2110" path="%1"/>
+   <linked-el length="20" name="%8" offset="2958" path="%1"/>
+   <linked-el length="31" name="%8" offset="1888" path="%1"/>
+   <linked-el length="34" name="%8" offset="3793" path="%1"/>
+   <linked-el length="35" name="%8" offset="2724" path="%1"/>
+   <linked-el length="20" name="%9" offset="2958" path="%1"/>
+   <linked-el length="27" name="%10" offset="2110" path="%1"/>
+   <linked-el length="20" name="%10" offset="2958" path="%1"/>
+   <linked-el length="31" name="%10" offset="1888" path="%1"/>
+   <linked-el length="34" name="%10" offset="3793" path="%1"/>
+   <linked-el length="35" name="%10" offset="2724" path="%1"/>
+   <linked-el length="123" name="%11" offset="5117" path="%1"/>
+   <linked-el length="34" name="%12" offset="3793" path="%1"/>
+   <linked-el length="31" name="%13" offset="1888" path="%1"/>
+   <linked-el length="34" name="%13" offset="3793" path="%1"/>
+   <linked-el length="53" name="%14" offset="4675" path="%1"/>
+   <linked-el length="53" name="%15" offset="4675" path="%1"/>
+   <linked-el length="35" name="%16" offset="2724" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="version.org.apache.log4j" value="%0"/>
+  <alias path="version.org.jboss.logmanager" value="%2"/>
+  <alias path="version.org.apache.logging" value="%3"/>
+  <alias path="project" value="%4"/>
+  <alias
+   path="/jboss-logging-3.2.0.Final/src/META-INF/maven/org.jboss.logging/jboss-logging/pom.xml" value="%1"/>
+  <alias path="version.org.apache" value="%5"/>
+  <alias path="version.org.jboss.apiviz.apiviz" value="%6"/>
+  <alias path="project.version" value="%7"/>
+  <alias path="version" value="%8"/>
+  <alias path="version.org.sfl4j" value="%9"/>
+  <alias path="version.org" value="%10"/>
+  <alias path="project.groupId" value="%11"/>
+  <alias path="version.org.jboss.apiviz" value="%12"/>
+  <alias path="version.org.jboss" value="%13"/>
+  <alias path="project.build.outputDirectory" value="%14"/>
+  <alias path="project.build" value="%15"/>
+  <alias path="version.org.apache.logging.log4j" value="%16"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

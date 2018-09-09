@@ -1,0 +1,16 @@
+package com.br.projetoPI2018.teste;
+
+import com.br.projetoPI2018.model.Pessoa;
+
+public class Teste {
+	
+	public static void main(String[] args) {
+		Pessoa p = new Pessoa();
+		p.setNome("rodrigo");
+		p.setCpf("41494131854");
+		p.setEmail("rodrigo@rodrigo");
+		p.
+		
+	}
+
+}

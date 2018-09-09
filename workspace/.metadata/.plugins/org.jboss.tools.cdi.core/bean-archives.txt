@@ -1,0 +1,3 @@
+path=C:\Desenvolvimento\projetoInterdisciplinar\workspace\pipoca_spring_aula03 (1)\WebContent\WEB-INF\lib\mysql-connector-java-5.1.38.jar
+size=983911
+archive=0

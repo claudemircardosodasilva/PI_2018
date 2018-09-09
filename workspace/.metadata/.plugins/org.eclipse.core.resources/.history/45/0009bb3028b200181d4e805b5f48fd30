@@ -1,0 +1,5 @@
+package com.br.projetoPI2018.repository;
+
+public interface PessoaRepository {
+
+}

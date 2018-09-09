@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects>
+  <project name="pipoca_spring_aula03 (1)"/>
+ </used-by-projects>
+ <paths/>
+ <validation>
+  <el>
+   <linked-el length="40" name="%0" offset="10427" path="%1"/>
+   <linked-el length="53" name="%2" offset="6871" path="%1"/>
+   <linked-el length="36" name="%3" offset="7714" path="%1"/>
+   <linked-el length="667" name="%3" offset="9058" path="%1"/>
+   <linked-el length="18" name="%3" offset="12307" path="%1"/>
+   <linked-el length="38" name="%3" offset="11364" path="%1"/>
+   <linked-el length="53" name="%3" offset="6871" path="%1"/>
+   <linked-el length="38" name="%3" offset="11447" path="%1"/>
+   <linked-el length="697" name="%4" offset="8303" path="%1"/>
+   <linked-el length="36" name="%5" offset="7714" path="%1"/>
+   <linked-el length="53" name="%5" offset="6871" path="%1"/>
+   <linked-el length="36" name="%6" offset="7714" path="%1"/>
+   <linked-el length="667" name="%7" offset="9058" path="%1"/>
+   <linked-el length="18" name="%7" offset="12307" path="%1"/>
+   <linked-el length="38" name="%7" offset="11364" path="%1"/>
+   <linked-el length="38" name="%7" offset="11447" path="%1"/>
+   <linked-el length="697" name="%8" offset="8303" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="basedir" value="%0"/>
+  <alias path="project.build.outputDirectory" value="%2"/>
+  <alias
+   path="/hibernate-validator-5.0.3.Final/src/META-INF/maven/org.hibernate/hibernate-validator/pom.xml" value="%1"/>
+  <alias path="project" value="%3"/>
+  <alias path="classmate" value="%4"/>
+  <alias path="project.build" value="%5"/>
+  <alias path="project.build.testOutputDirectory" value="%6"/>
+  <alias path="project.version" value="%7"/>
+  <alias path="classmate.version" value="%8"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

@@ -1,0 +1,9 @@
+package com.br.projetoPI2018.teste;
+
+public class Teste {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

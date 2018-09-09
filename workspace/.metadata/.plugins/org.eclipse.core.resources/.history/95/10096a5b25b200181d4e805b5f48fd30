@@ -1,0 +1,11 @@
+package com.br.projetoPI2018.model;
+
+public class Pessoal {
+	private int id;
+	private String nome;
+	private String cpf;
+	private String telefone;
+	private String email;
+	private String idImagem;
+	private Endereco endereco;
+}

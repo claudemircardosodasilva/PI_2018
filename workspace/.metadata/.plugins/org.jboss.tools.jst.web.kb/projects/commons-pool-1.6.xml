@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects>
+  <project name="pipoca_spring_aula03 (1)"/>
+ </used-by-projects>
+ <paths/>
+ <validation>
+  <el>
+   <linked-el length="34" name="%0" offset="7770" path="%1"/>
+   <linked-el length="38" name="%0" offset="9323" path="%1"/>
+   <linked-el length="25" name="%0" offset="8805" path="%1"/>
+   <linked-el length="29" name="%0" offset="8933" path="%1"/>
+   <linked-el length="96" name="%2" offset="4504" path="%1"/>
+   <linked-el length="96" name="%3" offset="4504" path="%1"/>
+   <linked-el length="96" name="%4" offset="4504" path="%1"/>
+   <linked-el length="96" name="%5" offset="4504" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="basedir" value="%0"/>
+  <alias
+   path="/commons-pool-1.6/src/META-INF/maven/commons-pool/commons-pool/pom.xml" value="%1"/>
+  <alias path="commons.componentid" value="%2"/>
+  <alias path="commons.deployment.protocol" value="%3"/>
+  <alias path="commons.deployment" value="%4"/>
+  <alias path="commons" value="%5"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>
